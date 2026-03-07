@@ -1,0 +1,17 @@
+Metric,Value
+Model,RatingCurve
+n_obs,96
+RMSE_gL,0.05751604345371475
+MAE_gL,0.0312637172784038
+Bias_gL,0.01730850319361055
+Pearson_r,-0.21789716158067626
+Pearson_r_pvalue,0.0329512013084138
+Threshold_gL,0.08
+TP,0
+FN,26
+TN,70
+FP,0
+Sensitivity,0.0
+Specificity,1.0
+F1,0.0
+Accuracy,0.7291666666666666
